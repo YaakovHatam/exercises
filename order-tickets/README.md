@@ -2,6 +2,7 @@
 This page will search for available bus tickets.
 
 ## The app
+This app will be SPA
 ### HTML
 Header section with a form and inputs for search.
 
