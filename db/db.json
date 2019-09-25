@@ -1,0 +1,12 @@
+[
+    {
+        "day": "Wed, Sep 25",
+        "dep": "12:01",
+        "due": "4h19m",
+        "arrival": "4:20 PM",
+        "operator": "citilink",
+        "busId": "GLI50533",
+        "price": "25$",
+        "seats": 30
+    }
+]
