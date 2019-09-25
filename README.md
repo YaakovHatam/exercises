@@ -2,8 +2,9 @@
 
 ## TOC
 the projects available
-------------------------
-01 | Bus tickets 
+| Project number | Project name  |
+| -------------  | ------------- |
+| 01             | Bus tickets   |
 
 ## Hall of fame
 links to projects that students made
