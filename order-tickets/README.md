@@ -20,5 +20,6 @@ user can navigate up to 28 days.
 
 when clicking on a date box the available tickets will be shown for this date.
 
+the days carousel will have the minimum price shown
 #### Extra
 When clicking on Order link the seats will be updated and saved in memory, and if all the seats taken the order button will be disabled and the row will disabled.
