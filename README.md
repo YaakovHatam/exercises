@@ -6,6 +6,7 @@ the projects available
 | Project number | Project name  |
 | -------------  | ------------- |
 | 01             | Bus tickets   |
+| 02             | Events website|
 
 ## Hall of fame
 links to projects that students made
