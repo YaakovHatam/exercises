@@ -5,3 +5,4 @@
 - an endpoint `/` that show all the quotes and their ratings.
 
 ## Client side
+- a page with all the quotes and their ratings, at the header an option to get a randon quote and rate him.
