@@ -7,7 +7,7 @@ the projects available
 | -------------  | -------------   |
 | 01             | Bus tickets     |
 | 02             | Events website  |
-| 03             | 03-smart-quotes |
+| 03             | Smart quotes |
 
 ## Hall of fame
 links to projects that students made
