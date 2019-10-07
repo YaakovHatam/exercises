@@ -1,13 +1,13 @@
 [
 	{
 		"id" :1,
-		"quote": "There are only two great tragedies in life: one is not getting what you want and the other is getting it."
+		"quote": "There are only two great tragedies in life: one is not getting what you want and the other is getting it.",
 		"by": "Oscar Wilde",
 		"rating": 0.0,
 		"ratersCount": 0
 	}, {
 		"id" :2,
-		"quote": "Books say: She did this because. Life says: She did this. Books are where things are explained to you; life is where things aren’t. I’m not surprised some people prefer books."
+		"quote": "Books say: She did this because. Life says: She did this. Books are where things are explained to you; life is where things aren’t. I’m not surprised some people prefer books.",
 		"by": "Julian Barnes",
 		"rating": 0.0,
 		"ratersCount": 0
