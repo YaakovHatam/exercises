@@ -3,10 +3,11 @@
 ## TOC
 the projects available
 
-| Project number | Project name  |
-| -------------  | ------------- |
-| 01             | Bus tickets   |
-| 02             | Events website|
+| Project number | Project name    |
+| -------------  | -------------   |
+| 01             | Bus tickets     |
+| 02             | Events website  |
+| 03             | 03-smart-quotes |
 
 ## Hall of fame
 links to projects that students made
