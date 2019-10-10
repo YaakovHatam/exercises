@@ -15,12 +15,32 @@ As shown in the image
 
 ### Logic
 #### Basic
-Price and Deprature can be ordered from low to high.
+1. Price and Deprature can be ordered from low to high.
 
-user can navigate up to 28 days.
+2. user can navigate up to 28 days.
 
-when clicking on a date box the available tickets will be shown for this date.
+3. when clicking on a date box the available tickets will be shown for this date.
 
-the days carousel will have the minimum price shown
+4. the days carousel will have the minimum price shown
+
+5. Drop down have all the cities availble in db.json file
+
 #### Extra
+5. Drop down contains only citiies that exist in db.json file.
+for example:
+consider the data
+[
+{
+     "from": "new york",
+     "to": "new jersey"
+},
+{
+     "from": "new york",
+     "to": "washington"
+}
+]
+So in from dropdown you should give the options for new york
+
+and to dropdown should have new jersey and washington
+
 When clicking on Order link the seats will be updated and saved in memory (JavaScript variable), and if all the seats taken the order button will be disabled and the row will disabled.
