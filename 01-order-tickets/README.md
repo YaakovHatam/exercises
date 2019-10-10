@@ -29,6 +29,7 @@ As shown in the image
 5. Drop down contains only citiies that exist in db.json file.
 for example:
 consider the data
+```json
 [
 {
      "from": "new york",
@@ -39,8 +40,9 @@ consider the data
      "to": "washington"
 }
 ]
-So in from dropdown you should give the options for new york
+```
+**from** dropdown contains options for: **new york**
 
-and to dropdown should have new jersey and washington
+**to** dropdown contains options for: **new jersey** and **washington**
 
 When clicking on Order link the seats will be updated and saved in memory (JavaScript variable), and if all the seats taken the order button will be disabled and the row will disabled.
