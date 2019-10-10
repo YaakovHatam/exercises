@@ -30,16 +30,13 @@ As shown in the image
 for example:
 consider the data
 ```json
-[
-{
+[{
      "from": "new york",
      "to": "new jersey"
-},
-{
+}, {
      "from": "new york",
      "to": "washington"
-}
-]
+}]
 ```
 **from** dropdown contains options for: **new york**
 
