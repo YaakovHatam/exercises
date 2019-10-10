@@ -26,6 +26,23 @@ As shown in the image
 5. Drop down have all the cities availble in db.json file
 
 #### Extra
+5. Drop down contains only citiies that exist in db.json file.
+for example:
+consider the data
+```json
+[
+{
+     "from": "new york",
+     "to": "new jersey"
+},
+{
+     "from": "new york",
+     "to": "washington"
+}
+]
+```
+**from** dropdown contains options for: **new york**
 
+**to** dropdown contains options for: **new jersey** and **washington**
 
 When clicking on Order link the seats will be updated and saved in memory (JavaScript variable), and if all the seats taken the order button will be disabled and the row will disabled.
