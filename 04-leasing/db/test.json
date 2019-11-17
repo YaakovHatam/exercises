@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "אבארט 500 1.4 ידני Scorpione",
+        "price": 158900,
+        "monthly": 1589,
+        "currency": "ils",
+        "doors": 3,
+        "seats": 4,
+        "image": "avarat-scorpione.jpg"
+    },
+    {
+        "id": 2,
+        "name": "אאודי Q5 2.0 טורבו-בנזין 180 כס Executive",
+        "price": 324700,
+        "monthly": 3247,
+        "currency": "ils",
+        "doors": 5,
+        "seats": 5,
+        "image": "auto-q5-executive.jpg"
+    },
+    {
+        "id": 3,
+        "name": "אאודי A7 1.8",
+        "price": 448900,
+        "monthly": 	4489,
+        "currency": "ils",
+        "doors": 5,
+        "seats": 4,
+        "image": "audi-a7.jpg"
+    },
+    {
+        "id": 4,
+        "name": "אופל קורסה 1.4 ידנית 5 דל' Enjoy",
+        "price": 94200,
+        "monthly": 942,
+        "currency": "ils",
+        "doors": 5,
+        "seats": 5,
+        "image": "open-corsa-enjoy.jpg"
+    },
+    {
+        "id": 5,
+        "name": "אופל ויוארו 1.6 קצר נמוך L1H1",
+        "price": 219900,
+        "monthly": 2199,
+        "currency": "ils",
+        "doors": 5,
+        "seats": 3,
+        "image": "opel-viaro-l1h1.jpg"
+    }
+]
