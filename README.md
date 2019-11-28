@@ -4,11 +4,11 @@
 the projects available
 
 | Project number | Project name    | Fork template |
-| -------------  | -------------   | |
-| 01             | Bus tickets     | |
-| 02             | Events website  | |
-| 03             | Smart quotes | |
-| 04             | leasing | |
+| -------------  | -------------   | -------------|
+| 01             | Bus tickets     |             |
+| 02             | Events website  |                 |
+| 03             | Smart quotes |                  |
+| 04             | leasing |                       |
 | 05             | Memory game | https://github.com/kob-e/exercise-05-memory-game |
 
 ## Hall of fame
