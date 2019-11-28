@@ -14,6 +14,14 @@ the projects available
 ## Hall of fame
 links to projects that students made
 
+| Project number | Project name    | name               |  Repo |
+| -------------  | -------------   | ------------------ | -----------------|
+| 01             | Bus tickets     |                    |                  |
+| 02             | Events website  |                    |                  |
+| 03             | Smart quotes    |                    |                 |
+| 04             | leasing         |                    |                | https://github.com/kob-e/Memory-game-javascript |
+| 05             | Memory game     | [kob-e](https://github.com/kob-e)    | https://github.com/kob-e/exercise-05-memory-game |
+
 ## QnA
 Feel free to ask questions, tag the relevant project with your question at https://github.com/kob-e/exercises/issues
 
