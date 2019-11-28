@@ -8,6 +8,8 @@ the projects available
 | 01             | Bus tickets     |
 | 02             | Events website  |
 | 03             | Smart quotes |
+| 04             | leasing |
+| 05             | Memory game |
 
 ## Hall of fame
 links to projects that students made
