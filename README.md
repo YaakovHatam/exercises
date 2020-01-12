@@ -35,3 +35,5 @@ advanced-JS-technics: https://johnresig.com/apps/learn/
 https://css-tricks.com/
 
 https://regexr.com/
+
+https://github.com/necolas/normalize.css
