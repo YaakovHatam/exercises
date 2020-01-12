@@ -29,3 +29,5 @@ Have an idea for a project? comment here https://github.com/kob-e/exercises/issu
 
 ## Good stuff
 naming conventions: https://gist.github.com/kob-e/e861ed402ae634f5e7ef79fad6866495
+
+advanced-JS-technics: https://johnresig.com/apps/learn/
