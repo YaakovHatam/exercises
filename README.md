@@ -23,12 +23,12 @@ links to projects that students made
 | 05             | Memory game     |     |  |
 
 ## QnA
-Feel free to ask questions, tag the relevant project with your question at https://github.com/kob-e/exercises/issues
+Feel free to ask questions, tag the relevant project with your question at https://github.com/YaakovHatam/exercises/issues
 
-Have an idea for a project? comment here https://github.com/kob-e/exercises/issues/7
+Have an idea for a project? comment here https://github.com/YaakovHatam/exercises/issues/7
 
 ## Good stuff
-naming conventions: https://gist.github.com/kob-e/e861ed402ae634f5e7ef79fad6866495
+naming conventions: https://gist.github.com/YaakovHatam/e861ed402ae634f5e7ef79fad6866495
 
 advanced-JS-technics: https://johnresig.com/apps/learn/
 
