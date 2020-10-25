@@ -9,7 +9,7 @@ the projects available
 | 02             | Events website  |                 |
 | 03             | Smart quotes |                  |
 | 04             | leasing |                       |
-| 05             | Memory game | https://github.com/kob-e/exercise-05-memory-game |
+| 05             | Memory game | https://github.com/YaakovHatam/exercise-05-memory-game |
 
 ## Hall of fame
 links to projects that students made
