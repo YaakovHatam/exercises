@@ -7,6 +7,8 @@
         "operator": "citilink",
         "busId": "GLI50533",
         "price": "25$",
-        "seats": 30
+        "seats": 30,
+        "source": "NY",
+        "dest": "DC"
     }
 ]
