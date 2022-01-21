@@ -10,6 +10,9 @@ the projects available
 | 03             | Smart quotes |                  |
 | 04             | leasing |                       |
 | 05             | Memory game | https://github.com/YaakovHatam/exercise-05-memory-game |
+| 06             |  |                       |
+| 07             |  |                       |
+| 08             | Pokemon | https://github.com/YaakovHatam/exercise-08-pokemon |
 
 ## QnA
 Feel free to ask questions, tag the relevant project with your question at https://github.com/YaakovHatam/exercises/issues
