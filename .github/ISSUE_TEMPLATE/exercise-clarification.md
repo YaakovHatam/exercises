@@ -1,9 +1,9 @@
 ---
 name: Exercise clarification
 about: Describe this clarification that you want
-title: ''
+title: "[CLARIFICATION]"
 labels: help wanted
-assignees: kob-e
+assignees: YaakovHatam
 
 ---
 
