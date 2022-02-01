@@ -20,9 +20,14 @@ Feel free to ask questions, tag the relevant project with your question at https
 Have an idea for a project? comment here https://github.com/YaakovHatam/exercises/issues/7
 
 ## Good stuff
+Maintained list for study: https://github.com/stars/YaakovHatam/lists/study
+
 naming conventions: https://gist.github.com/YaakovHatam/e861ed402ae634f5e7ef79fad6866495
 
 advanced-JS-technics: https://johnresig.com/apps/learn/
+
+### Wonderful websites
+https://www.w3docs.com/
 
 https://css-tricks.com/
 
