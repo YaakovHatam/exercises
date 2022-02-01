@@ -18,6 +18,7 @@ the projects available
 ## Hall of fame
 
 | Project number | Member | Project name    | Repo |                   |
+| -------------  | -------------   | -------------| -------- |
 | 08             | tk-ni | Pokemon | https://github.com/tk-ni/pokemon-exercise |
 
 ## QnA
