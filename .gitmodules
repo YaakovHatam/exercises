@@ -1,3 +1,6 @@
 [submodule "exercise-05-memory-game"]
 	path = exercise-05-memory-game
 	url = https://github.com/YaakovHatam/exercise-05-memory-game
+[submodule "exercise-08-pokemon"]
+	path = exercise-08-pokemon
+	url = https://github.com/YaakovHatam/exercise-08-pokemon
