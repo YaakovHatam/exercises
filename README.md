@@ -17,9 +17,9 @@ the projects available
 
 ## Hall of fame
 
-| Project number | Member | Project name    | Repo |                   |
-| -------------  | -------------   | -------------| -------- |
-| 08             | tk-ni | Pokemon | https://github.com/tk-ni/pokemon-exercise |
+| Project number | Member | Project name | Repo |
+| -------------  | ------ | -------------| -------- |
+| 08             | (tk-ni)[https://github.com/tk-ni] | Pokemon | https://github.com/tk-ni/pokemon-exercise |
 
 ## QnA
 Feel free to ask questions, tag the relevant project with your question at https://github.com/YaakovHatam/exercises/issues
