@@ -4,3 +4,6 @@
 [submodule "exercise-08-pokemon"]
 	path = exercise-08-pokemon
 	url = https://github.com/YaakovHatam/exercise-08-pokemon
+[submodule "exercise-01-order-tickets"]
+	path = exercise-01-order-tickets
+	url = https://github.com/YaakovHatam/exercise-01-order-tickets
