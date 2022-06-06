@@ -13,10 +13,10 @@
 - Build: `npm run build` (The files built to `dist` folder)
 - Start: `npm run start`
 
-(https://github.com/YaakovHatam/exercises/blob/master/09-airlines-company/src_diagram.png)
-
-
 ## Enums
 `PassengerType`: `Male`, `Female`, `Infant`, `Unknown`
 
 `Aircraft`: `A320`, `A380`, `Boeing707`, `Boeing717`, `Boeing737`
+
+## Class diagram
+![models class diagram](https://github.com/YaakovHatam/exercises/blob/master/09-airlines-company/src_diagram.png)
