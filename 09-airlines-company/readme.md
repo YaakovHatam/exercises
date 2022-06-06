@@ -13,4 +13,4 @@
 - Build: `npm run build` (The files built to `dist` folder)
 - Start: `npm run start`
 
-https://github.com/YaakovHatam/exercises/blob/master/09-airlines-company/src_diagram.png
+[https://github.com/YaakovHatam/exercises/blob/master/09-airlines-company/src_diagram.png]
