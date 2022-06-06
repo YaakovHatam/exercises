@@ -14,3 +14,9 @@
 - Start: `npm run start`
 
 (https://github.com/YaakovHatam/exercises/blob/master/09-airlines-company/src_diagram.png)
+
+
+## Enums
+`PassengerType`: `Male`, `Female`, `Infant`, `Unknown`
+
+`Aircraft`: `A320`, `A380`, `Boeing707`, `Boeing717`, `Boeing737`
