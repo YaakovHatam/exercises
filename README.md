@@ -41,3 +41,7 @@ https://css-tricks.com/
 https://regexr.com/
 
 https://github.com/necolas/normalize.css
+
+### Git submodule
+add: `git submodule add https://.....com/project.git`
+update: `git submodule update --remote`
