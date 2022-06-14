@@ -10,3 +10,9 @@
 [submodule "exercise-03-smart-quotes"]
 	path = exercise-03-smart-quotes
 	url = https://github.com/YaakovHatam/exercise-03-smart-quotes
+[submodule "exercise-10-weather"]
+	path = exercise-10-weather
+	url = https://github.com/YaakovHatam/exercise-10-weather.git
+[submodule "exercise-12-youtube-player"]
+	path = exercise-12-youtube-player
+	url = https://github.com/YaakovHatam/exercise-12-youtube-player.git
