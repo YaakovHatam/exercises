@@ -9,4 +9,8 @@ If you finish the exercise you can request to add your repo here [add a finished
 
 Something is not clear? Please open issue here: [Open clarification issue](https://github.com/YaakovHatam/exercises/issues/new?assignees=YaakovHatam&labels=help+wanted&template=exercise-clarification.md&title=%5BCLARIFICATION%5D)
 
-## Rules
+## Objective of the exercise
+
+## The knowledge required to solve the exercise
+
+## Exercise instructions
