@@ -13,4 +13,6 @@ Something is not clear? Please open issue here: [Open clarification issue](https
 
 ## The knowledge required to solve the exercise
 
+## Initial files
+
 ## Exercise instructions
